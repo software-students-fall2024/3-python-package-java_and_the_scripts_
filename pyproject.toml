@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "funtasks"
 description = "A task generating package that lets you add, complete, and fetch random tasks."
-version = "0.1.20"
+version = "0.1.21"
 authors = [
   { name = "Jun Li", email= "jljune9li@gmail.com" },
   { name = "Natalie Ovcarov", email = "nataliovcharov@gmail.com"},
