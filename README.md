@@ -1,7 +1,7 @@
 ![Python build & test](https://github.com/software-students-fall2024/3-python-package-java_and_the_scripts_/actions/workflows/build.yaml/badge.svg)
 
 # Python Package Exercise
-**Funtasks: A Task Management Package** 
+**Funtasks: A Task Generating Package** 
 
 This package was created by generally following the [Packaging Python Projects](https://packaging.python.org/tutorials/packaging-projects/) guide, with the addition of `pipenv` for virtual environment management. 
 
