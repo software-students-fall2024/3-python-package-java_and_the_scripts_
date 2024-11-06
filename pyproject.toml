@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "funtasks"
-description = "A task management package that lets you add, complete, and fetch random tasks."
+description = "A task generating package that lets you add, complete, and fetch random tasks."
 version = "0.1.20"
 authors = [
   { name = "Jun Li", email= "jljune9li@gmail.com" },
@@ -15,7 +15,7 @@ authors = [
 
 license = { file = "LICENSE" }
 readme = "README.md"
-keywords = ["task management", "productivity", "random tasks"]
+keywords = ["task generator", "productivity", "random tasks"]
 requires-python = ">=3.7"
 
 classifiers = [
